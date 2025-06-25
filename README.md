@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋 I'm Rudra Sharma — a passionate MERN Stack Developer and Problem Solver who loves building real-time, responsive, and AI-powered web applications.
 
-<!--
-**Rudrasharma214/Rudrasharma214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech I use daily: **React.js**, **Node.js**, **Express**, **MongoDB**, **Tailwind CSS**, and **C++**.  
+🧠 Strong foundation in **Data Structures & Algorithms**, with hands-on practice in **C++**.  
+🤖 Exploring the world of **AI chatbots**, **doubt solvers**, and tools like **Gemini API**, **Socket.IO**, and more.  
+💡 Focused on writing clean, efficient code and constantly learning new technologies.  
+📦 Check out my projects like **Sync Chat**, **DoubtNix**, **SocketChess**, and many more in progress!
 
-Here are some ideas to get you started:
+> “Code it until it clicks.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's connect:  
+- LinkedIn: https://www.linkedin.com/in/rudra-sharma-312319308/
+- Portfolio: https://portfolio-rudrasharma.netlify.app/
+- Email: rudrashma.810@gmail.com
+
