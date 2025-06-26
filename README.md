@@ -6,8 +6,6 @@
 💡 Focused on writing clean, efficient code and constantly learning new technologies.  
 📦 Check out my projects like **Sync Chat**, **DoubtNix**, **SocketChess**, and many more in progress!
 
-> “Code it until it clicks.”
-
 📬 Let's connect:  
 - LinkedIn: https://www.linkedin.com/in/rudra-sharma-312319308/
 - Portfolio: https://portfolio-rudrasharma.netlify.app/
