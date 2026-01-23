@@ -2,8 +2,8 @@
 ## Hi there! 👋 I'm Rudra Sharma<br><br>🧠 I am currently learning **Data Structures & Algorithms**, with hands-on practice in **C++**.   <br>💡 Focused on writing clean, efficient code and constantly learning new technologies.  <br>📦 Check out my projects like **Sync Chat**, **DoubtNix**, **SocketChess**, and many more in progress!<br>👯 I’m looking to collaborate on back-end projects<br><br>
 
 📬 Let's connect:  
-- LinkedIn: https://www.linkedin.com/in/rudra-sharma-312319308/
-- Portfolio: https://portfolio-rudrasharma.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/rudra214
+- Portfolio: https://www.rudrasharma.dev
 - Email: rudrashma.810@gmail.com
 
 
