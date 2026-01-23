@@ -1,5 +1,9 @@
 # 💫 About Me:
-## Hi there! 👋 I'm Rudra Sharma<br><br>🧠 I am currently learning **Data Structures & Algorithms**, with hands-on practice in **C++**.   <br>💡 Focused on writing clean, efficient code and constantly learning new technologies.  <br>📦 Check out my projects like **Sync Chat**, **DoubtNix**, **SocketChess**, and many more in progress!<br>👯 I’m looking to collaborate on back-end projects<br><br>
+## Hi there! 👋 I'm Rudra Sharma<br><br>
+🧠 Software Engineer Intern with a strong focus on **Data Structures & Algorithms**, practicing extensively in **C++**. <br>
+💡 Experienced in building and maintaining backend systems, writing clean, efficient, and scalable code, and continuously learning new technologies. <br>
+📦 Worked on projects like **Sync Chat**, **DoubtNix**, **SocketChess**, and other full-stack and backend-focused applications. <br>
+👯 Open to collaborating on backend and system-oriented projects.<br><br>
 
 📬 Let's connect:  
 - LinkedIn: https://www.linkedin.com/in/rudra214
