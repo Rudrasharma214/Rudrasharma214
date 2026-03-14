@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9067C6&width=600&lines=Hey+there%2C+I'm+Rudra+Sharma+%F0%9F%91%8B;Backend+Engineer+%7C+MERN+Stack;Building+things+that+work+in+production." alt="Typing SVG" />
+**# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9067C6&width=600&lines=Hey+there%2C+I'm+Rudra+Sharma+%F0%9F%91%8B;Backend+Engineer+%7C+MERN+Stack;Building+things+that+work+in+production." alt="Typing SVG" />**
 
 - 👨‍💻 **Software Engineer Intern** at Tryidol Technologies — shipping real features in production while most interns are still googling "what is an API"
 - 🎓 B.Tech CSE @ IES University, Bhopal — fuelled by chai and curiosity
