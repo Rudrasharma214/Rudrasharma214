@@ -3,7 +3,7 @@
 - 👨‍💻 **Software Engineer Intern** at Tryidol Technologies — shipping real features in production while most interns are still googling "what is an API"
 - 🎓 B.Tech CSE @ IES University, Bhopal — fuelled by chai and curiosity
 - 🎧 I code better with headphones on — the louder the music, the cleaner the code *(probably)*
-- 🐛 My git history is a thriller novel — bugs, plot twists, and a hero commit at the end
+- 🐛 My git history is a thriller novel bugs, plot twists, and a hero commit at the end
 - 🟢 Open to new opportunities — let's build something that doesn't break in production
 
 ---
